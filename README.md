@@ -1,6 +1,6 @@
 # lampOS
 
-A small desktop OS that runs entirely in the browser — plain HTML, CSS, and JavaScript, no frameworks or build step.
+A small desktop OS that runs entirely in the browser. Built with plain HTML, CSS, and JavaScript, with no frameworks or build step.
 
 Live at: https://lamp-os.vercel.app/
 
