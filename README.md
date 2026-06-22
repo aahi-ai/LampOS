@@ -2,7 +2,7 @@
 
 A small desktop OS that runs entirely in the browser — plain HTML, CSS, and JavaScript, no frameworks or build step.
 
-Live at: [your-vercel-url-here]
+Live at: [(https://lamp-os.vercel.app/)]
 
 lampOS started as a personal landing page and grew into something closer to a real OS: draggable windows, a custom dock, and a small kernel underneath that every app reads and writes through instead of managing its own storage.
 
