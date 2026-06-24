@@ -4,7 +4,7 @@ lampOS is a minimalistic, brower-based operating system built with HTML, CSS, an
 
 This project started as a simple idea to make a web application as similar as possible to an operating system. Overtime, the project evolved into a complete interactive desktop experience with custom applications, personalized settings, window management, and many more.
 
-Unlike traditional dashboard projects, lampOS focuses on recreating the feeling of using a desktop directly inside the browser.
+Unlike traditional dashboard projects, lampOS focuses on recreating the feeling of using a desktop computer directly inside the browser.
 ## Features
 
 - Multi-window desktop environment
