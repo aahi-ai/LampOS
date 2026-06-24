@@ -7,23 +7,23 @@ This project started as a simple idea to make a web application as similar as po
 Unlike traditional dashboard projects, lampOS focuses on recreating the feeling of using a desktop directly inside the browser.
 ## Features
 
-- **Multi-window desktop environment
-- **Draggable and resizable application windows
-- **File Explorer
-- **Built-In Calculator
-- **Custom desktop icons
-- **Settings and personalization
-- **Notes application
-- **Interactive desktop widgets
-- **Taskbar and launcher system
-- **Real-time Weather
-- **Interactive Snake Game
-- **To-Do Task Lisk Maker
+- Multi-window desktop environment
+- Draggable and resizable application windows
+- File Explorer
+- Built-In Calculator
+- Custom desktop icons
+- Settings and personalization
+- Notes application
+- Interactive desktop widgets
+- Taskbar and launcher system
+- Real-time Weather
+- Interactive Snake Game
+- To-Do Task Lisk Maker
 
 ## Tech Stack
 
-- **HTML
-- **CSS
-- **JavaScript
+- HTML
+- CSS
+- JavaScript
 
 Built by aahi.
