@@ -18,7 +18,7 @@ Unlike traditional dashboard projects, lampOS focuses on recreating the feeling 
 - Taskbar and launcher system
 - Real-time Weather
 - Interactive Snake Game
-- To-Do Task Lisk Maker
+- To-Do Task List Maker
 
 ## Tech Stack
 
