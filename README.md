@@ -1,12 +1,11 @@
 # lampOS
 
-A small desktop OS that runs entirely in the browser. Built with plain HTML, CSS, and JavaScript, with no frameworks or build step.
+lampOS is a minimalistic, brower-based operating system built with HTML, CSS, and JavaScript.
 
-Live at: https://lamp-os.vercel.app/
+This project started as a simple idea to make a web application as similar as possible to an operating system. Overtime, the project evolved into a complete interactive desktop experience with several different applications. 
 
-lampOS started as a personal landing page and grew into something closer to a real OS: draggable windows, a custom dock, and a small kernel underneath that every app reads and writes through instead of managing its own storage.
-
-## What makes this different
+Unlike traditional dashboard projects, lampOS focuses on recreating the feeling of using a desktop directly inside the browser.
+## Features
 
 Every app sits on top of one shared system instead of working alone:
 
